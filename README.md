@@ -1,5 +1,5 @@
 # -Online-Retail-EDA1
-# Exploratory Data Aanlysis (EDA) on retail data withpython
+# Exploratory Data Aanlysis (EDA) on retail data with python
 # INTRODUCTION
 This exploratory data analysis (EDA) aims to understand the structure, quality, and underlying patterns of the Online Retail dataset. The study focuses on identifying trends in sales behavior, customer distribution, and potential data anomalies. Through descriptive statistics and visual exploration, this phase provides essential insights that guide subsequent modeling and business interpretation.
 
